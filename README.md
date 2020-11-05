@@ -1,0 +1,1 @@
+Experimental project to apply unsupervised graph neural network techniques to custom subset arxvi containing all AI related papers. The aim is to create descriptive represenations based on the paper's title and the citation graph structure.
